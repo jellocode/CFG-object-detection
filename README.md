@@ -1,4 +1,3 @@
-# CFG Object Detection
 A jupyter notebook containing a CNN model for object detection
 
 ## To Do:

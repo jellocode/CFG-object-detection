@@ -1,5 +1,5 @@
-# CFG (team black)
-A CNN model for object detection in the CFG MACHINE LEARNING CHALLENGE 2023
+# CFG object detection
+A CNN model for object detection
 
 ### To Do:
 - Add more images to laptop-sample-dataset (from drive)  

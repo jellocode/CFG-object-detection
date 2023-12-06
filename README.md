@@ -1,4 +1,4 @@
-# CFG object detection
+# CFG Object Detection
 A CNN model for object detection
 
 ### To Do:

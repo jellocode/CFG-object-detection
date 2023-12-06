@@ -1,19 +1,19 @@
-# CFG (Team Black)
-a CNN model for object detection in the CFG MACHINE LEARNING CHALLENGE 2023
+# CFG (team black)
+A CNN model for object detection in the CFG MACHINE LEARNING CHALLENGE 2023
 
-### to do:
-- add more images to laptop-sample-dataset (from drive)  
-- build the CNN model
-- train the model
-- evaluate the model
-- make predictions
+### To Do:
+- Add more images to laptop-sample-dataset (from drive)  
+- Build the CNN model
+- Train the model
+- Evaluate the model
+- Make predictions
 
-#### goals:
-identify as many as you can of these items or letters explicitly in any image provided
-make it easy to supply in new images and report visible objects from the list
-(determine the number of each of these items in a picture)
-(identify other items outside of the list)
+#### Goals:
+Identify as many as you can of these items or letters explicitly in any image provided
+Make it easy to supply in new images and report visible objects from the list
+(Determine the number of each of these items in a picture)
+(Identify other items outside of the list)
 
-#### objects:
-laptop | monitor | keyboard | mouse | football | ball (soccer ball) | bee | train | letter M | letter T  
+#### Objects:
+Laptop | Monitor | Keyboard | Mouse | Football | Ball (Soccer Ball) | Bee | Train | Letter M | Letter T  
 

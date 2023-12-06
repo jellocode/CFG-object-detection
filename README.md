@@ -9,9 +9,9 @@ A CNN model for object detection
 - Make predictions
 
 ### Goals:
-Identify as many as you can of these items or letters explicitly in any image provided
-Make it easy to supply in new images and report visible objects from the list
-(Determine the number of each of these items in a picture)
+Identify as many as you can of these items or letters explicitly in any image provided </br>
+Make it easy to supply in new images and report visible objects from the list </br>
+(Determine the number of each of these items in a picture) </br>
 (Identify other items outside of the list)
 
 ### Objects:

@@ -2,8 +2,8 @@
 A jupyter notebook containing a CNN model for object detection
 
 ## To Do:
-- ~ Gather images for dataset ~  
-- ~ Load and preprocess the dataset ~ 
+- ~~Gather images for dataset~~  
+- ~~Load and preprocess the dataset~~ 
 - Add more images to laptop-sample-dataset (from drive) 
 - Build the CNN model
 - Train the model

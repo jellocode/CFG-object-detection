@@ -1,8 +1,10 @@
 # CFG Object Detection
-A CNN model for object detection
+A jupyter notebook containing a CNN model for object detection
 
 ## To Do:
-- Add more images to laptop-sample-dataset (from drive)  
+- ~ Gather images for dataset ~  
+- ~ Load and preprocess the dataset ~ 
+- Add more images to laptop-sample-dataset (from drive) 
 - Build the CNN model
 - Train the model
 - Evaluate the model

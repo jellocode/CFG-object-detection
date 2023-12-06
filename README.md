@@ -8,16 +8,16 @@ make it easy to supply in new images and report visible objects from the list
 (identify other items outside of the list)
 
 #### objects:
-- laptop
-- monitor
-- keyboard
-- mouse
-- football
-- ball (soccer ball)
-- bee
-- train
-- letter M
-- letter T
+- laptop  
+- monitor  
+- keyboard  
+- mouse  
+- football  
+- ball (soccer ball)  
+- bee  
+- train  
+- letter M  
+- letter T  
 
 ### to do:
 - add more images to laptop-sample-dataset (from drive)

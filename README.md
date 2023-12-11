@@ -6,8 +6,17 @@ A jupyter notebook containing a CNN model for object detection
 - ~~Build the CNN model~~
 - ~~Train the model~~
 - ~~Evaluate the model~~
-- Save LabelEncoder in model code and use for prediction
-- Make predictions
+- ~~Save LabelEncoder in model code and use for prediction~~
+- ~~Make predictions~~
+
+### How To Use:
+1. run main.ipynb
+2. open predict.py
+3. replace existing path to image with desired image
+4. run predict.py
+Ta Daah~
+
+(need to improve accuracy)
 
 #### Goals:
 Identify as many as you can of these items or letters explicitly in any image provided </br>

@@ -13,7 +13,7 @@ A jupyter notebook containing a CNN model for object detection
 1. run main.ipynb
 2. open predict.py
 3. replace existing path to image with desired image
-4. run predict.py
+4. run predict.py <br>
 Ta Daah~
 
 (need to improve accuracy)

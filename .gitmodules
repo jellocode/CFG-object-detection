@@ -1,0 +1,3 @@
+[submodule "rename-files"]
+	path = rename-files
+	url = https://github.com/jellocode/rename-files

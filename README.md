@@ -1,14 +1,5 @@
 A jupyter notebook containing a CNN model for object detection
 
-### To Do:
-- ~~Gather images for dataset~~  
-- ~~Load and preprocess the dataset~~ 
-- ~~Build the CNN model~~
-- ~~Train the model~~
-- ~~Evaluate the model~~
-- ~~Save LabelEncoder in model code and use for prediction~~
-- ~~Make predictions~~
-
 ### How To Use:
 1. run main.ipynb
 2. open predict.py
